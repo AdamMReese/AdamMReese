@@ -4,4 +4,4 @@
 * I’m currently looking for work in the field of software development
 * You can view my school projects by visiting the link in my profile
 
-Feel free to contact me if you have any questions about my work!
+##Feel free to contact me if you have any questions about my work!
