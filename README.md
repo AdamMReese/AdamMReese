@@ -1,6 +1,6 @@
 ## Hello, I'm Adam Reese!
 
-I'm a passionate software enthusiast with a lifelong fascination for computers. I've been interested in computers ever since I was a child when my parents bought out first one back in the 1990s. Growing up, I knew I wanted to be involved with them in some capacity. After becoming fascinated with the world of computer programming, I decided that that was what I wanted to do for a living.
+I've been interested in computers ever since I was a child when my parents bought out first one back in the 1990s, playing on Windows 3.1 and the like before we even had internet in our house. I would even stay up at night just so I could sneak downstairs and play on the computer even more without having to share it with the rest of my family. Growing up, I knew I wanted to be involved with them in some capacity. After becoming fascinated with the world of computer programming and how powerful it can be by simplifying and automating a wide variety of tasks, I decided that that was what I wanted to do for a living.
 
 🎓 **Education:**
   - Associate's Degree in Computer Science, Des Moines Area Community College (DMACC)
