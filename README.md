@@ -21,4 +21,4 @@ I've been interested in computers ever since I was a child when my parents bough
   - Database: SQL
   - Version Control: Git
 
-Now, I'm eager to embark on a career as a junior software developer, ready to contribute my passion and technical expertise to innovative projects. Let's connect and explore exciting opportunities together!
+Now, I'm eager to embark on a career in software developer by looking for a role in backend web development, ideally writing in Python or Java. I'd love to work on innovative projects. Let's connect and explore exciting opportunities together!
